@@ -33,7 +33,9 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
-
+![alt text](<Screenshot (60).png>)
+![alt text](<Screenshot (61).png>)
+![alt text](<Screenshot (62).png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
